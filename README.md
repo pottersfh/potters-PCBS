@@ -1,4 +1,3 @@
 # potters-PCBS
 
-Keep files in downloads
-Run PCBS.exe
+Keep files in downloads, Run PCBS.exe
